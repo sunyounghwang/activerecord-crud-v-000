@@ -1,5 +1,5 @@
 class Movie < ActiveRecord::Base
-  def create 
+  def create
   end
 
   def save
